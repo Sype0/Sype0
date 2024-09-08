@@ -21,6 +21,14 @@
 
 ---
 
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sype0&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+
 ### 🛠️ Technologies & Tools:
 
 <p align="center">
@@ -35,14 +43,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/ThinkPad-E480-000000?style=for-the-badge&logo=lenovo&logoColor=white">
 
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sype0&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ---
