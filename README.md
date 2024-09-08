@@ -8,12 +8,12 @@
 <h3 align="center">💻 Community Manager | Londer Software💻</h3>
 
 <p align="center">
-  <a href="https://github.com/sype" target="_blank">
+  <p href="https://github.com/sype" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sype?label=Follow&style=social">
-  </a>
-  <a href="https://discord.gg/yusufsunc" target="_blank">
+  </p>
+  <p href="https://discord.gg/yusufsunc" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+  </p>
 </p>
 
 ---
