@@ -38,4 +38,4 @@
 
 ---
 
-<p align="center">Let's connect and build something amazing! 🚀</p>
+<p align="center">We develop games... realy 🚀</p>
