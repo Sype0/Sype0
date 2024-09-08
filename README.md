@@ -1,8 +1,9 @@
 <h1 align="center">Hi there👋</h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3ohs7H0lH5OJlIN6p2/giphy.gif](https://media.discordapp.net/attachments/1197191149232861255/1281212931333165087/koC59Fankurtyeter.gif?ex=66deda86&is=66dd8906&hm=5e866af79b61444e04670b0b6c463fd135fc0726c5d2009ca69be282f9011eab&=&width=1227&height=684)" width="300">
+  <img src="https://media.discordapp.net/attachments/1197191149232861255/1281212931333165087/koC59Fankurtyeter.gif?ex=66deda86&is=66dd8906&hm=5e866af79b61444e04670b0b6c463fd135fc0726c5d2009ca69be282f9011eab&=&width=1227&height=684" width="500">
 </p>
+
 
 <h3 align="center">💻 Unity | C# | Game Developer 💻</h3>
 
