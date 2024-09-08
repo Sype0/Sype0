@@ -11,9 +11,6 @@
   <p href="https://github.com/sype" target="_blank" align="center">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sype0?label=Follow&style=social">
   </p>
-  <p href="https://discord.gg/Nn3nXntYjH" target="_blank" align="center">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </p>
 </p>
 
 ---
