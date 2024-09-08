@@ -20,8 +20,6 @@
 
 ### 🚀 About Me:
 - 🎮 I'm currently working on exciting game projects using **Unity** and **C#**.
-- 🌱 Always eager to learn more about AI and game mechanics.
-- 💬 Feel free to ask me about game development, software architecture, and design patterns.
 - 📫 How to reach me: [sype@londersoftware.net](mailto:sype@londersoftware.net)
 
 ---
